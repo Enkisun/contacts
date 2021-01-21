@@ -1,0 +1,6 @@
+.appContainer {
+  width: 360px;
+  height: 680px;
+  margin: 0 auto;
+  background: linear-gradient(180deg, rgba(110,90,185,1) 39%, rgba(181,135,197,1) 100%);
+}
