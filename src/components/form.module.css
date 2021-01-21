@@ -11,6 +11,11 @@
   border-radius: 10px;
   font-size: 1.4rem;
   font-weight: bold;
+  color: #353746;
+}
+
+.input::placeholder {
+  color: #353746;
 }
 
 .label {

@@ -5,7 +5,7 @@ const Form = () => {
   return (
     <form className={styles.container}>
       <label className={styles.label} htmlFor='form'>Nama, Telepon, atau Email</label>
-      <input id='form' className={styles.input} />
+      <input id='form' className={styles.input} placeholder='Kepada' />
     </form>
   )
 }
