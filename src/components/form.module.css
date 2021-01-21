@@ -1,11 +1,11 @@
 .container {
+  position: relative;
   width: 100%;
   padding: 20px;
   margin-bottom: 15px;
 }
 
 .input {
-  position: relative;
   width: 100%;
   padding: 25px 25px 60px;
   border-radius: 10px;
@@ -16,7 +16,7 @@
 .label {
   position: absolute;
   top: 85px;
-  left: 108px;
+  left: 45px;
   font-size: .9rem;
   color: #bbbabf;
   z-index: 2;
